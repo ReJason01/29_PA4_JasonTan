@@ -12,4 +12,5 @@ Integration testing is the phase in software testing in which individual softwar
 
 Testers.
 
-Blackbox.
+Blackbox..
+
