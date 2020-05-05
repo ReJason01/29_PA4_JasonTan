@@ -8,10 +8,14 @@ public class Rotation : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+ //Version1
         if(spd ==0)
         {
             spd = 300;
         }
+=======
+        
+ //master
     }
 
     // Update is called once per frame
